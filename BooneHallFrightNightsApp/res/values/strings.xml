@@ -1,0 +1,454 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Boone Hall Fright Nights</string>
+    <string name="action_settings">Settings</string>
+    <string name="welcome">Welcome To Boone Hall Fright Nights!</string>
+    <string name="part_intro">All actor positions</string>
+    <string name="back">Back</string>
+    <string name="safety">Safety</string>
+    <string name="more_to_come">There was a lot i wanted to do with this. However time waits for no man.\n
+        I wanted to add something for the hayride Narrators on the hayride.\n
+        I also wanted to add more on safety.\n
+        Makeup designs will also be added in the future.\n
+        All things considered I don\'t think i did ok for a guy who only knows how to add a textview.</string>
+    <string name="empty">place stuff here</string>
+    <string name="error_text">Small error.\n
+    1.You might not have the TV changed.\n
+    2.You need to stop clicking stuff that might be broken. </string>
+    
+    <string name="part_section_title">TITLE HERE</string>
+    <string name="part_section_1">INFORMATION</string>
+    <string name="part_section_2">MAKEUP</string>
+    <string name="part_section_3">SAFETY</string>
+   
+    <string name="info_req">INFO</string>
+    <string name="makeup_req">MAKEUP</string>
+    <string name="safety_req">SAFETY</string>
+    
+    <string name="AN_title_1">Welcome Amy</string>
+    <string name="AN_title_2">Clown #1</string>
+    <string name="AN_title_3">Drop Window Clown</string>
+    <string name="AN_title_4">Toy Box Clown #1</string>
+    <string name="AN_title_5">Toy Box Clown #2</string>
+    <string name="AN_title_6">Drop Box Clown</string>
+    <string name="AN_title_7">Bedroom Amy</string>
+    <string name="AN_title_8">Bathroom Clown</string>
+    
+   <string name="AN_info_1">You will need to rely on jump scares.
+       You will need to take advantage of blending into the 3D room.
+       Doing this will be easy, just sit back and look at the door,
+       when people come in wait until the door closes then jump up.\n 
+       SCREEMS OF TERROR MURDER AND PHYSCO will be needed.\n
+       Possible lines might be:\n
+       Want to play?\n 
+       Welcome to my nightmare\n
+       Take full advantage of the ones that scream the most. </string>
+       
+   <string name="AN_info_2"> You will be standing inside a walk-in closet.
+       Just walk or jump out with your knife in hand and look at people. Make 
+       jerking motions that will confuse the people, once confused find the one that 
+       HATES clowns. Do not follow too far, allow the people to get out of your 
+       area. No speaking rolls will be needed, HOWEVER you can scream at them. </string>
+   
+   <string name="AN_info_3">You will have a peek hole that you will need to use to see
+       your targets. Click the lever above you to drop the window. Jump out and scream.
+       It isn\'t necessary to talk but do so if you find something creepy to say.</string>
+       
+   <string name="AN_info_4">You can pop up out of the box or walk for behind the box.
+       Try to target the middle of the group for max effect. No dialog is needed but 
+       if you can find something creepy to say then go for it. Work with the second guy in 
+       the room to increase the scare factor.  </string>
+       
+   <string name="AN_info_5">You can pop up out of the box or walk for behind the box.
+       Try to target the middle of the group for max effect. No dialog is needed but 
+       if you can find something creepy to say then go for it. Work with the second guy in 
+       the room to increase the scare factor. </string>
+       
+   <string name="AN_info_6">You will have a peek hole that you will need to use to see
+       your targets. Click the lever above you to drop the window. Jump out and scream.
+       It isn\'t necessary to talk but do so if you find something creepy to say. </string>
+       
+   <string name="AN_info_7"> Amy has gotten older. Oh what fun, Use the bed to your advantage.
+       You can move the bed by shifting your weight. Act like your nightmares are possessing you.\n
+       You will need to scream and shout at your victims.\n 
+       Some lines should include.\n 
+       "'Get out!'"\n
+       "'Why do you want to hurt me.'"\n 
+       Be creative.</string>
+       
+   <string name="AN_info_8">End of the line? Use the shower curtain to your advantage. You can 
+       also use the blow up wall to hide, just make sure to walk out with enough time to get them by you. 
+       </string>
+       
+   <string name="AN_makeup_1"> You will need whiteface and blacked out eyes.\n
+       You will not need tons of blood but a small splatter effect will work. </string> 
+   <string name="AN_makeup_2"> You will only need eye makeup. </string>
+   <string name="AN_makeup_3"> You will only need eye makeup. </string>
+   <string name="AN_makeup_4"> You will only need eye makeup. </string>
+   <string name="AN_makeup_5"> You will only need eye makeup. </string>
+   <string name="AN_makeup_6"> You will only need eye makeup. </string>
+   <string name="AN_makeup_7"> You will need whiteface and blacked out eyes.\n
+       You will not need tons of blood but a small splatter effect will work. </string>
+   <string name="AN_makeup_8"> You will only need eye makeup. </string>
+   
+   <string name="AN_safety_1"> DO NOT GET TOO CLOSE!\n
+       If you see drunk or unsafe people do not go near them.\n
+       Watch your step, toys and objects are on the floor. </string>
+  <string name="AN_safety_2"> DO NOT GET TOO CLOSE!\n
+       If you see drunk or unsafe people do not go near them.\n
+       Watch your step the mask will limit your vision. </string>
+  <string name="AN_safety_3"> DO NOT GET TOO CLOSE!\n
+       If you see drunk or unsafe people do not go near them.\n
+       Control how far you pop out of the box. </string>
+  <string name="AN_safety_4">DO NOT GET TOO CLOSE!\n
+       If you see drunk or unsafe people do not go near them.\n
+       Control how far you pop out of the box.</string>
+  <string name="AN_safety_5">DO NOT GET TOO CLOSE!\n
+       If you see drunk or unsafe people do not go near them.\n</string>
+  <string name="AN_safety_6">DO NOT GET TOO CLOSE!\n
+       If you see drunk or unsafe people do not go near them.\n
+       Control how far you pop out of the box.</string>
+  <string name="AN_safety_7">DO NOT GET TOO CLOSE!\n
+       If you see drunk or unsafe people do not go near them.\n
+       Do not jump off the bed, it is unstable and can\'t be used that way.</string>
+  <string name="AN_safety_8">DO NOT GET TOO CLOSE!\n
+       If you see drunk or unsafe people do not go near them.\n
+       Watch your step the mask will limit your vision.</string>
+       
+  <string name="CM_title_1">Welcome Host</string>
+  <string name="CM_title_2">Line Divider</string>
+  <string name="CM_title_3">Drop Window 1</string>
+  <string name="CM_title_4">Gargoyle</string>
+  <string name="CM_title_5">Arch Hall Statue</string>
+  <string name="CM_title_6">Iron Smith</string>
+  <string name="CM_title_7">Hooping Creature</string>
+  <string name="CM_title_8">Kitchen Hag</string>
+  <string name="CM_title_9">Beast Operator</string>
+  <string name="CM_title_10">Torture Cell Victim</string>
+  <string name="CM_title_11">Stretch door</string>
+  <string name="CM_title_12">Executioner Room</string>
+  <string name="CM_title_13">Drop Window 2</string>
+  <string name="CM_title_14">Overhead Creature</string>
+  <string name="CM_title_15">Impailer Keeper</string>
+  <string name="CM_title_16">Demon Druid 1</string>
+  <string name="CM_title_17">Demon Druid 2</string>
+  <string name="CM_title_18">Chainsaw 1</string>
+  <string name="CM_title_19">Chainsaw 2</string>
+  
+  <string name="CM_info_1">Your job is to welcome the people into the nightmare that is about to come.\n
+      You will need to lead them into the center of the room and activate the video discreetly. \n
+      A lot of dialog is needed, use lines that welcome people to their doom.\n 
+      Remind them of no pushing. And that they will all die later.</string>
+  <string name="CM_info_2">Your job is to line divide people. Do not allow the entire group of people to 
+      go through all at once. This is to allow the other actors to get back in place after each group.\n 
+      Be creative on your dialog. Jump scare people with the blacked out wall. </string>
+  <string name="CM_info_3">you will have a peek hole that you will need to use to see
+       your targets. Click the lever above you to drop the window. Jump out and scream.
+       It isn\'t necessary to talk but do so if you find something creepy to say</string>
+  <string name="CM_info_4">Stay perfectly still. Your job is to become perfectly still as a statue. 
+      When the device does its show, jerk your head and jump at them.\n 
+      No dialog is needed.</string>
+  <string name="CM_info_5">You will look just like the statues in the hall. Wait until the people get close and 
+      then scream at them.\n
+      You can use dialog if you want to, just make it creepy.</string>
+  <string name="CM_info_6">You will have a large metal object that you can bang against the desk. You are the 
+      keeper of death. Act like you enjoy causing them pain and suffering. 
+      Dialog is needed, such as:\n
+      ANOTHER DEAD MAN WALKING\n
+      READY TO DIE TONIGHT\n
+      Be creative in your dialog and actions.</string>
+  <string name="CM_info_7">You are equipped with a special device called a sky hook. Jump out from the curtain 
+      and attack. The sky hook will pull u back into place using the spring attached to it. \n
+      WARNING: DO NOT ATTACH OR DEATTACH ANYTHING ON THIS DEVICE. RISK OF SERIOUS INJURY OR DEATH CAN OCCURE 
+      IF YOU MESS WITH IT. IT IS SET UP FOR YOUR SAFTY, DO NOT DO ANYTHING TO CHANGE THAT! </string>
+  <string name="CM_info_8">As they enter your kitchen scream at them, your goal is to become an old witch like
+      lady that wants to eat their soul. \n
+      Use dialog like:\n
+      FRESH VICTIMS\n
+      STAY FOR DINNER LITTLE ONES\n
+      Laugh a little bit in a creepy way.</string>
+  <string name="CM_info_9">Activate the beast by using the buttons on the controls. Then push out the beat by leaning 
+      forward. Just make sure not to step out where people can see you. Pull by the beast by leaning back.</string>
+  <string name="CM_info_10">Scream terror and mayhem. Jump up and down and ask them to let you out. You are about to 
+      die and are left in there until they kill you. Act like a madman.\n
+      Dialog should be along the lines of:\n
+      HELP ME!\n
+      LET ME OUT OF HERE\n
+      Be creative on your dialog and actions.</string>
+  <string name="CM_info_11">You will be able to see an outline of your targets through the door. Place your hands 
+      on the spandex door and push out. Do not touch them but target the ones who are not paying attrition. </string>
+  <string name="CM_info_12">Bang against the rack in the room. Jump out of the darkness with shouts of anger and hate.
+      This will require dialog like: \n
+      YOU WILL DIE HERE LIKE HIM!\n
+      FRESH MEAT FOR THE GRINDER!\n
+      Feel free to be creative.</string>
+  <string name="CM_info_13">you will have a peek hole that you will need to use to see
+       your targets. Click the lever above you to drop the window. Jump out and scream.
+       It isn\'t necessary to talk but do so if you find something creepy to say</string>
+  <string name="CM_info_14">Lay down on top of a board and reach down at people.\n
+      No dialog is needed.</string>
+  <string name="CM_info_15">Your job is to distract them as the spikes impailer them. Scream and shout at them in 
+      anger and rage. \n
+      Create your own dialog, be creative.</string>
+  <string name="CM_info_16">The spitter and other demons activate off of IR sensors. Jump out at your targets 
+      screaming and shouting. \n
+      Create your own dialog, be creative.</string>
+  <string name="CM_info_17">Last room of the house, hide in the middle of the statues and wait until they are distracted 
+      then attack them. Scream, shout, yell, and ask them to join the dark lord.\n
+      Be creative on your dialog.</string>
+  <string name="CM_info_18">Work with your partner at the time and attack them customers that pass your area.\n 
+      WARNING: ALTHOUGH FUNNEY AS HELL. DO NOT CHASE THE CUSTOMERS FROM ANY ATTRACTIONS INTO THE DITCH. THIS CAN 
+      CAUSE SERIOUS INJURY TO YOU AND THE CUSTOMER. </string>
+  <string name="CM_info_19">Work with your partner at the time and attack them customers that pass your area.\n 
+      WARNING: ALTHOUGH FUNNEY AS HELL. DO NOT CHASE THE CUSTOMERS FROM ANY ATTRACTIONS INTO THE DITCH. THIS CAN 
+      CAUSE SERIOUS INJURY TO YOU AND THE CUSTOMER.</string>
+  
+  <string name="HH_title_1">Ma at Ma\'s Diener</string>
+  <string name="HH_title_2">Pa at Ma\'s Diener</string>
+  <string name="HH_title_3">Daughter w/ Chainsaw</string>
+  <string name="HH_title_4">T-Rex operator</string>
+  <string name="HH_title_5">Gilly #1</string>
+  <string name="HH_title_6">Gilly #2</string>
+  <string name="HH_title_7">Electric Shed Worker</string>
+  <string name="HH_title_8">Scissor Serpent Ghoul #1</string>
+  <string name="HH_title_9">Scissor Serpent Ghoul #2</string>
+  <string name="HH_title_10">Dragon Ghoul #1</string>
+  <string name="HH_title_11">Dragon Ghoul #2</string>
+  <string name="HH_title_12">Gravedigger</string>
+  <string name="HH_title_13">Graveyard Drop Window #1</string>
+  <string name="HH_title_14">Graveyard Drop Window #2</string>
+  <string name="HH_title_15">Specter Operator</string>
+  <string name="HH_title_16">Graveyard Zombie #1</string>
+  <string name="HH_title_17">Graveyard Zombie #2</string>
+  <string name="HH_title_18">Mausoleum #1</string>
+  <string name="HH_title_19">Mausoleum #2</string>
+  <string name="HH_title_20">Mausoleum #3</string>
+  <string name="HH_title_21">Mausoleum #4</string>
+  <string name="HH_title_22">Voodoo Master</string>
+  <string name="HH_title_23">Torso Boy</string>
+  <string name="HH_title_24">Slaughterhouse #1</string>
+  <string name="HH_title_25">Slaughterhouse #2</string>
+  <string name="HH_title_26">Hillbilly #1</string>
+  <string name="HH_title_27">Hillbilly #2</string>
+  <string name="HH_title_28">Grandpa Shack</string>
+  <string name="HH_title_29">Grinder Barn</string>
+  <string name="HH_title_30">Corn Creature #1</string>
+  <string name="HH_title_31">Corn Creature #2</string>
+  
+  <string name="HH_info_1">This is a 3 part job. While Pa gets the attation of the crowd you need 
+      to bust out the door and run at your targets.\n
+      You will need dialog on this part: \n
+      You all look good enough to eat.\n
+      Meals on wheels\n
+      Be creative but be fast, Pa and your daughter have parts too.</string>
+  <string name="HH_info_2">This is a 3 part job. Gain the attation of the crowd by using dialog.\n
+      MA! FRESH MEAT!\n
+      WHAT YOU ALL DOING HERE. MA FRESH MEAT\n
+      Be creative on your dialog. </string>
+  <string name="HH_info_3">This is a 3 part job. You are the last part, have your chainsaw pre-cranked 
+      and ready to go. When Ma and Pa do their thing run out screaming and shouting. \n
+      Use some dialog but be loud and creative.</string>
+  <string name="HH_info_4">You press the button for the mp3 to start T-Rex sounds. Push down on the lever 
+      to open the jaw of the T-Rex.\n
+      Don\'t step out into the open. </string>
+  <string name="HH_info_5">Hide in the woods and run up to the trailer. Scream and shout, as your become a distraction 
+      for your partner. When one of you scares them the other needs to attack the other side. \n
+      Use dialog on this and be creative, your goal is to be a sick murderer hunter in the woods.</string>
+  <string name="HH_info_6">Hide in the woods and run up to the trailer. Scream and shout, as your become a distraction 
+      for your partner. When one of you scares them the other needs to attack the other side. \n
+      Use dialog on this and be creative, your goal is to be a sick murderer hunter in the woods.</string>
+  <string name="HH_info_7">All the effects in the shed are automated. Wait until the trailer is around 
+      the barrels then push them out. Run out screaming and shouting.  \n
+      Use dialog like: \n
+      TIME TO DIE\n
+      YOU WANT TO DIE HERE\n
+      Be creative with your dialog and actions. </string>
+  <string name="HH_info_8">Work with your partner, as the targets are looking at the Serpent run out screaming and 
+      shouting. While one attacks one side pause and attack the other side confusing your targets. \n
+      Use creative dialog on this position. </string>
+  <string name="HH_info_9">Work with your partner, as the targets are looking at the Serpent run out screaming and 
+      shouting. While one attacks one side pause and attack the other side confusing your targets. \n
+      Use creative dialog on this position.</string>
+  
+  <string name="HH_info_10">You or your partner need to activate the flames, then as the dragon attacks 
+      work with your partner, as the targets are looking at the Serpent run out screaming and 
+      shouting. While one attacks one side pause and attack the other side confusing your targets. \n
+      Be creative on your dialog.\n
+      WARNING: DO NOT ATTEMPT TO LIGHT THE FLAME BY ANY OTHER MEANS THEN WHAT YOUR ARE TOLD. DO NOT EDIT OR 
+      TRY TO FIX THE FAME SETUP.\n
+      DOING SO CAN CAUSE SERIOUS INJURY AND OR DEATH TO YOU AND OR OTHERS. </string>
+  <string name="HH_info_11">You or your partner need to activate the flames, then as the dragon attacks 
+      work with your partner, as the targets are looking at the Serpent run out screaming and 
+      shouting. While one attacks one side pause and attack the other side confusing your targets. \n
+      Be creative on your dialog.\n
+      WARNING: DO NOT ATTEMPT TO LIGHT THE FLAME BY ANY OTHER MEANS THEN WHAT YOUR ARE TOLD. DO NOT EDIT OR 
+      TRY TO FIX THE FAME SETUP.\n
+      DOING SO CAN CAUSE SERIOUS INJURY AND OR DEATH TO YOU AND OR OTHERS.</string>
+  <string name="HH_info_12">You are to welcome everyone to your home. You can act reserved or crazy as you wish. 
+      Not much is known about this part far as acting because most people die on the first week.\n
+      Use dialog such as: \n
+      WECOME HOME, Final stop is 6 feet down.\n
+      WATCH WHAT YOU ARE DOING OR YOU WILL END UP LIKE THE REST.\n
+      Be creative in your dialog.
+	  Yea we don\'t know what happened to the other guys.</string>
+  <string name="HH_info_13">Work with your partner and attack at the same time. Click the lever and scream your targets.
+      You will have a peek hole to see your targets. </string>
+  <string name="HH_info_14">Work with your partner and attack at the same time. Click the lever and scream your targets.
+      You will have a peek hole to see your targets.</string>
+  <string name="HH_info_15">All the sound is automated. Push the rig out to attack with it. Do not step out into the open. 
+      </string>
+  <string name="HH_info_16">Slowly rise from the grave or run at them. No dialog will be needed just screams and shouts. 
+      Make noises that will scare your targets and work with your partner to attack.</string>
+  <string name="HH_info_17">Slowly rise from the grave or run at them. No dialog will be needed just screams and shouts. 
+      Make noises that will scare your targets and work with your partner to attack.</string>
+  <string name="HH_info_18">No dialog will be needed just screams and shouts. Run at your target and make noises that will 
+      scare your targets and work with your partner to attack. If you are operating the drop windows wait until the trailer 
+      is nearby and hang out trying to grab them. </string>
+  <string name="HH_info_19">No dialog will be needed just screams and shouts. Run at your target and make noises that will 
+      scare your targets and work with your partner to attack. If you are operating the drop windows wait until the trailer 
+      is nearby and hang out trying to grab them.</string>
+  <string name="HH_info_20">No dialog will be needed just screams and shouts. Run at your target and make noises that will 
+      scare your targets and work with your partner to attack. If you are operating the drop windows wait until the trailer 
+      is nearby and hang out trying to grab them.</string>
+  <string name="HH_info_21">No dialog will be needed just screams and shouts. Run at your target and make noises that will 
+      scare your targets and work with your partner to attack. If you are operating the drop windows wait until the trailer 
+      is nearby and hang out trying to grab them.</string>
+  <string name="HH_info_22">You will do a short chant and then attack by running at your targets. Activate the flames by the 
+      switch on your right. \n
+      Dialog is needed: \n
+      I WILL MAKE YOU ALL BURN IN HELL!\n
+      Be creative on your dialog.\n
+      WARNING: DO NOT ATTEMPT TO LIGHT THE FLAME BY ANY OTHER MEANS THEN WHAT YOUR ARE TOLD. DO NOT EDIT OR 
+      TRY TO FIX THE FAME SETUP.\n
+      DOING SO CAN CAUSE SERIOUS INJURY AND OR DEATH TO YOU AND OR OTHERS.</string>
+  <string name="HH_info_23">You need to stay still until the voodoo master is done. You will then scream and shout. \n
+      Dialog is optional:\n
+      HELP ME!\n
+      WHERE IS MY BODY. AHHHH HELP ME.\n
+      Be creative on the dialog.</string>
+  <string name="HH_info_24">One guy will operate the lights and other one the door. When the lights go off bust out of the 
+      sliding door and attack with CHAINSAWS!!!!! If music is available then time it well with the lights and the trailer entering 
+      the house. Jump on the back of the trailer and get close but do not touch them with the chainsaws.\n
+      Use dialog such as:\n 
+      WANT TO GO FOR A RIDE BARBIE GIRL!\n
+      YOU READY TO DIE TONIGHT.\n
+      Be very creative, but loud so they can hear you. Work with your partner.\n
+      I love this part, just kill them all.</string>
+  <string name="HH_info_25">One guy will operate the lights and other one the door. When the lights go off bust out of the 
+      sliding door and attack with CHAINSAWS!!!!! If music is available then time it well with the lights and the trailer entering 
+      the house. Jump on the back of the trailer and get close but do not touch them with the chainsaws.\n
+      Use dialog such as:\n 
+      WANT TO GO FOR A RIDE BARBIE GIRL!\n
+      YOU READY TO DIE TONIGHT.\n
+      Be very creative, but loud so they can hear you. Work with your partner.\n
+      I love this part, just kill them all.</string>
+  <string name="HH_info_26">Your job is the mumble like a hillbilly and sound like one. Jump into the trailer and go all 
+      hillbilly on them.\n
+      Dialog will be needed: \n
+      What you all doing here huh, grandpa going to kill you.\n
+      Be creative and work with your partners and what is available at the time. </string>
+  <string name="HH_info_27">Your job is the mumble like a hillbilly and sound like one. Jump into the trailer and go all 
+      hillbilly on them.\n
+      Dialog will be needed: \n
+      What you all doing here huh, grandpa going to kill you.\n
+      Be creative and work with your partners and what is available at the time. </string>
+  <string name="HH_info_28">Your job is the mumble like a hillbilly and sound like one. Jump into the trailer and go all 
+      hillbilly on them.\n
+      Dialog will be needed: \n
+      What you all doing here huh, grandpa going to kill you.\n
+      Be creative and work with your partners and what is available at the time. </string>
+  <string name="HH_info_29">Activate the grinders that will slam down on your victims and then act crazy. 
+      Be creative on the dialog.</string>
+  <string name="HH_info_30">Jump out of the corn and attack. There is no dialog just sound of anger and terror. </string>
+  <string name="HH_info_31">Jump out of the corn and attack. There is no dialog just sound of anger and terror.</string>
+  
+  
+  <string name="ZT_title_1">Street Zombie #1</string>
+  <string name="ZT_title_2">Street Zombie #2</string>
+  <string name="ZT_title_3">Street Zombie #3</string>
+  <string name="ZT_title_4">Street Zombie #4</string>
+  <string name="ZT_title_5">Street Zombie #5</string>
+  <string name="ZT_title_6">Door Bust Zombie #1</string>
+  <string name="ZT_title_7">Door Bust Zombie #2</string>
+  <string name="ZT_title_8">Doctor</string>
+  <string name="ZT_title_9">Doc room Zombie</string>
+  <string name="ZT_title_10">Clinic Bed Zombie</string>
+  <string name="ZT_title_11">Nurse with baby</string>
+  <string name="ZT_title_12">Cage Zombie #1</string>
+  <string name="ZT_title_13">Cage Zombie #2</string>
+  <string name="ZT_title_14">Bus Zombie #1</string>
+  <string name="ZT_title_15">Bus Zombie #2</string>
+  <string name="ZT_title_16">Clinic Window Zombie</string>
+  <string name="ZT_title_17">Street Zombie #6</string>
+  <string name="ZT_title_18">Garage Zombie</string>
+  <string name="ZT_title_19">Junk Yard Zombie #1</string>
+  <string name="ZT_title_20">Junk Yard Zombie #2</string>
+
+  <string name="ZT_info_1">You are the first line of defense. You need to be in the 
+      flower shop ready for the first target. When your targets enter the town, wait until they hit the first turn 
+      then step out or stumble out of the shop. Use sounds, monas, groans, and zombie 
+      noises to make your targets feel at home. \n
+      No actual words will be needed.</string>
+  <string name="ZT_info_2">Work with the other street zombies to attack your target. Try to hide behind objects and/or 
+      lay on the ground. When they get close stand up or craw to your targets making sounds and noises like a zombie.\n
+      No actual words will be needed. </string>
+  <string name="ZT_info_3">Work with the other street zombies to attack your target. Try to hide behind objects and/or 
+      lay on the ground. When they get close stand up or craw to your targets making sounds and noises like a zombie.\n
+      No actual words will be needed.</string>
+  <string name="ZT_info_4">Work with the other street zombies to attack your target. Try to hide behind objects and/or 
+      lay on the ground. When they get close stand up or craw to your targets making sounds and noises like a zombie.\n
+      No actual words will be needed.</string>
+  <string name="ZT_info_5"> Hide in the truck and wait until they get close by, then reach out and attack them. Work 
+      with the other street zombies to attack your target. Make sounds and noises like a zombie.\n
+      No actual words will be needed.</string>
+  <string name="ZT_info_6">Work with your partner as your targets get close to the doors bust out reaching for them. 
+      One of you can craw on the ground for added effect.\n
+      No actual words will be needed. </string>
+  <string name="ZT_info_7">Work with your partner as your targets get close to the doors bust out reaching for them. 
+      One of you can craw on the ground for added effect.\n
+      No actual words will be needed.</string>
+  <string name="ZT_info_8">You will play a doctor that has gone mad. Try to say you have the cure, and get them into the room. 
+      Set it up for your zombie partner to get your targets. This is a 2 person job. \n
+      Use dialog like:\n
+      IT\'S OK I HAVE THE CURE. IT IS RIGHT HERE IN THIS FRIDGE.\n
+      COME IN COME IN THIS IS A SAFE ROOM.\n
+      Depending on where your zombie is change your dialog.</string>
+  <string name="ZT_info_9">Work with your doc to get your targets. If you use the fridge get in and wait until he opens 
+      the door. Attack your targets changing your actions as the night goes on. Sound walk and act like zombie. \n
+      No actual words will be needed.</string>
+  <string name="ZT_info_10">Lay on the bed as a dead body or craw under it. When your targets get close go nuts and attack. 
+      Act and sound like a freshly reanimated corpse.\n
+      No actual words will be needed.</string>
+  <string name="ZT_info_11">You will carry a baby in your arms and walk around the cribs. When your targets enter the room 
+      look at them with you rage and helpless ness then attack. \n
+      Use words like:\n
+      SAVE MY BABY!\n
+      IT\'S MY BABY!\n
+      Be creative with your dialog.</string>
+  <string name="ZT_info_12">Work with your partner as you bounce off the walls crazy trying to escape. Sound like a zombie 
+      and bang against the cage.\n 
+      No actual words will be needed. </string>
+  <string name="ZT_info_13">Work with your partner as you bounce off the walls crazy trying to escape. Sound like a zombie 
+      and bang against the cage.\n 
+      No actual words will be needed. </string>
+  <string name="ZT_info_14">Hide behind the seats and wait until your targets get close. Use sounds and actions like a zombie.\n
+      No actual words will be needed. </string>
+  <string name="ZT_info_15">Hide behind the seats and wait until your targets get close. Use sounds and actions like a zombie.\n
+      No actual words will be needed.</string>
+  <string name="ZT_info_16">Wait and bust of the window to attack as they pass by. Use sounds and actions like a zombie.\n
+      No actual words will be needed.</string>
+  <string name="ZT_info_17">As they get off the bus and around the corner come out of the tattoo shop. Use sounds and actions 
+      like a zombie.\n
+      No actual words will be needed.</string>
+  <string name="ZT_info_18">As they come close to the front of the truck activate the flame and then deactivate it. Then jump out 
+      attacking like a zombie. Use sounds and actions like a zombie.\n
+      No actual words will be needed.</string>
+  <string name="ZT_info_19">Final push, work with your partner and scare your targets into the darkest part of boon hall. 
+      Use sounds and actions like a zombie.\n
+      No actual words will be needed.</string>
+  <string name="ZT_info_20">Final push, work with your partner and scare your targets into the darkest part of boon hall. 
+      Use sounds and actions like a zombie.\n
+      No actual words will be needed</string>
+  
+</resources>
